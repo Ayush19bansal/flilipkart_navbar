@@ -1,4 +1,6 @@
 # Hosted link https://ayush19bansal.github.io/flilipkart_navbar/
+# UI
+![image](https://github.com/Ayush19bansal/flilipkart_navbar/assets/118842033/0194c1e7-ea2c-416d-9a41-8b1b7db32515)
 
 # HTML
 ![image](https://github.com/Ayush19bansal/flilipkart_navbar/assets/118842033/47603877-0904-434c-b53b-af143b5fbf87)
